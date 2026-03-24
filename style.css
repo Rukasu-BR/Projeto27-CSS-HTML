@@ -35,7 +35,7 @@ label:hover{
 letter-spacing: 1px;
 }
 label::before{
-  content: 'Cancel';
+  content: 'Cancelar';
   position: absolute;
   height: 100%;
   width: 100%;
